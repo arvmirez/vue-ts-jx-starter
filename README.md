@@ -1,5 +1,9 @@
 # vue-ts-jx-starter
 
+
+Vue + Typescript starter for jenkins x
+
+
 ## Project setup
 ```
 npm install
